@@ -1,5 +1,5 @@
-## Weapons Web Concept
-# Feito em React JS
+# Weapons Web Concept
+## Feito em React JS
 
 Site realizado com intuito de práticas de Front-end utilizando a biblicoteca React JS.
 
