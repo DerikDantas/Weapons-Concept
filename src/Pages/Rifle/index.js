@@ -23,7 +23,7 @@ function Rifle() {
       <div class="linha-dois">
         <div class="container container-arma">
             <h1 class="nome-arma">FN SCAR</h1>
-            <img src={Scar} class="img-scar"/>
+            <img src={Scar} class="img-scar" alt="..." />
         </div>
       </div>
 

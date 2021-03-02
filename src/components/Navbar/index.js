@@ -14,18 +14,18 @@ function Navbar() {
         <div class="row linha-nav">
             <div class="logo">
                 <a href="/">
-                    <img src={logo} />
+                    <img src={logo} alt="..." />
                 </a>
             </div>
             <div class="links-nav">
                     <div class="menu-nav">
                         <a href="/sniper">
-                            <img src={sniper} />
+                            <img src={sniper} alt="..." />
                             <span>Sniper Rifle</span>
                         </a>
                     </div>
                     <div class="menu-nav">
-                            <img src={rifle} />
+                            <img src={rifle} alt="..." />
                             <span>Rifle</span>
                         <div class="sub-menu">
                             <a href="/rifle">
@@ -38,13 +38,13 @@ function Navbar() {
                     </div>
                     <div class="menu-nav">
                         <a href="/smg">
-                            <img src={smg} />
+                            <img src={smg} alt="..." />
                             <span>SMG</span>
                         </a>
                     </div>
                     <div class="menu-nav">
                         <a href="/pistol">
-                            <img src={pistol} />
+                            <img src={pistol} alt="..." />
                             <span>Pistol</span>
                         </a>
                     </div>

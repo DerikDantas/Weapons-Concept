@@ -23,7 +23,7 @@ function Ak() {
       <div class="linha-dois">
         <div class="container container-arma">
             <h1 class="nome-arma">AK-47</h1>
-            <img src={AkIMG} class="img-scar"/>
+            <img src={AkIMG} class="img-scar" alt="..." />
         </div>
       </div>
 
